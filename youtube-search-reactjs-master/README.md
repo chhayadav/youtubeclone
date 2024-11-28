@@ -32,12 +32,3 @@ module.exports = API_KEY;
 * Styled Components
 * Youtube API V3 Data
 
-## Author
-
-**germancutraro**
-
-made with [@bauticutraro](https://github.com/bauticutraro)
-
-## Idea
-
-* The idea was taken from Stephen Grider React.js course, then i tried to styled the app to make it more real like Youtube, so thanks to Stephen! 
